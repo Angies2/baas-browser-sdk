@@ -1,0 +1,9 @@
+node_moduels/
+config/
+src/
+docs/
+.editorconfig
+.gitignore
+.babelrc
+.travis.yml
+package-lock.json
