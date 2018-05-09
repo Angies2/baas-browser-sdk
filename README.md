@@ -1,13 +1,13 @@
 # 轻应用Baas API SDK
 
 * [如何使用](#user-content-如何使用)
-* [JS API文档](https://hong-boy.github.io/baas-browser-sdk/index.html)
+* [JS API文档](https://github.com/hong-boy/baas-browser-sdk/tree/master/docs/index.html)
 * [REST API接口文档](http://demo.heclouds.com/baasapi/swagger-ui.html)
 
 ## 如何使用
 ### 安装
 ```
-<script src="https://hong-boy.github.io/baas-browser-sdk/dist/APIClient.browser.js"></script>
+<script src="https://github.com/hong-boy/baas-browser-sdk/tree/master/dist/APIClient.browser.js"></script>
 ```
 ### Usage
 ```html
